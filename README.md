@@ -1,19 +1,12 @@
-# Infoclips
-This is a NLP-based summarization of YouTube videos and text is a web-based
-application that offers a time-efficient and effective way of summarizing lengthy YouTube
-videos and text. Our application uses advanced natural language processing (NLP) techniques
-to extract key information from the video or text and generate a concise summary. Our web
-application features sentimental analysis for YouTube videos, reflecting the overall tone of the
-video, which is particularly helpful for users who want to quickly determine whether the video
-is positive, negative, or neutral. Additionally, users can input a keyword, and our web
-application will automatically search for the keyword and skip the video to the relevant section.
-This makes it more convenient to navigate through the material and saves time for users who
-need specific information.
-INFOCLIPS is a valuable tool for those who want to optimize their learning and productivity
-by efficiently summarizing large volumes of information. With our application, users can
-revisit key ideas without having to re-watch or re-read the entire material, making it an essential
-tool for students, professionals, and anyone seeking to streamline their workflow.
-INFOCLIPS offers a powerful solution to the challenge of navigating through lengthy
-YouTube videos and text. With its advanced NLP techniques, sentimental analysis, and
-keyword search capabilities, it offers an efficient and effective way to extract key information
-and summarize it in a concise and user-friendly format. 
+INFOCLIPS - NLP-based Summarization of YouTube Videos and Text
+INFOCLIPS is a web-based application that provides a time-efficient and effective method for summarizing lengthy YouTube videos and text. By leveraging advanced natural language processing (NLP) techniques, our application extracts crucial information from videos or text and generates concise summaries.
+
+Features
+1. Summarization of YouTube Videos and Text
+INFOCLIPS uses NLP techniques to summarize YouTube videos and text documents, allowing users to quickly grasp the main points without the need to watch or read the entire content. This feature is particularly beneficial for individuals who wish to optimize their learning and productivity by efficiently summarizing large volumes of information.
+
+2. Sentiment Analysis for YouTube Videos
+Our web application incorporates sentiment analysis for YouTube videos, providing users with insights into the overall tone of the video. By quickly determining whether a video is positive, negative, or neutral, users can make informed decisions about which videos to engage with.
+
+3. Keyword Search and Navigation
+Users can input a keyword, and our web application will automatically search for that keyword within the video or text. The application then skips to the relevant section, enabling users to conveniently navigate through the material and save time when searching for specific information.
